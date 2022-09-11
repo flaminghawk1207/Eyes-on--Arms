@@ -1,0 +1,12 @@
+1
+------------------------------------------
+Name: Shami
+ID: 11
+Bank account number: 11
+Bank balance: 0.0
+Level: 2
+Wing: Army
+Location: Chennai
+Base salary: 55000.0
+Awards: 
+0
